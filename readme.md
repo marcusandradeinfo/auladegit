@@ -29,3 +29,7 @@ git merge "branch paralela"
 FAZER O DOWNLOAD DO REPOSITÓRIO DO GIT PARA O COMPUTADOR
 
 git clone https://github.com/marcusandradeinfo/auladegit.git
+
+BAIXAR ATUALIZAÇÕES DE UM REPOSITÓRIO
+
+git pull
